@@ -1,0 +1,112 @@
+Spacer(),
+                  TextButton(
+                    onPressed: () {},
+                    child: Text(
+                      "Condition of use privacy Notice",
+                      style: TextStyle(fontSize: 17),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+=======
+                      ),
+      
+                  // Spacer(),  // Removed to fix infinite size error
+                  SizedBox(height: 20), // Added fixed height spacing
+                  TextButton(
+                    onPressed: () {},
+                    child: Text(
+                      "Condition of use privacy Notice",
+                      style: TextStyle(fontSize: 17),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+>>>>>>> REPLACE
+
+<<<<<<< SEARCH
+                    child: Container(
+                      padding: EdgeInsets.symmetric(
+                        horizontal: size.width / 2 - 50,
+                        vertical: 20,
+                      ),
+                      decoration: BoxDecoration(color: Colors.orangeAccent),
+                      child: Text(
+                        "Sign In",
+                        style: GoogleFonts.firaSans(
+                          fontSize: 15,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ),
+                  ),
+=======
+                    child: Container(
+                      padding: EdgeInsets.symmetric(
+                        horizontal: 50,
+                        vertical: 20,
+                      ),
+                      decoration: BoxDecoration(color: Colors.orangeAccent),
+                      child: Text(
+                        "Sign In",
+                        style: GoogleFonts.firaSans(
+                          fontSize: 15,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ),
+                  ),
+>>>>>>> REPLACE
+
+<<<<<<< SEARCH
+                    child: Container(
+                      decoration: BoxDecoration(
+                        border: Border.all(width: 0.8),
+                        shape: BoxShape.rectangle,
+                      ),
+                      padding: EdgeInsets.symmetric(
+                        horizontal: size.width / 2 - 140,
+                        vertical: 20,
+                      ),
+                      child: Text(
+                        " Create a new Amazone account",
+                        style: GoogleFonts.firaSans(
+                          fontSize: 15,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ),
+                  ),
+=======
+                    child: Container(
+                      decoration: BoxDecoration(
+                        border: Border.all(width: 0.8),
+                        shape: BoxShape.rectangle,
+                      ),
+                      padding: EdgeInsets.symmetric(
+                        horizontal: 50,
+                        vertical: 20,
+                      ),
+                      child: Text(
+                        " Create a new Amazone account",
+                        style: GoogleFonts.firaSans(
+                          fontSize: 15,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ),
+                  ),
