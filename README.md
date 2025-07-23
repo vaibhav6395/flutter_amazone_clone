@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+
+This is a full stack flutter amazone_clone project with backend server with nodejs,express and moongoose 
+ This application is beneficial for those who want to learn how the big projects works .
+ This is not Exact copy of it but i had tried to build it a way so anyone can understand's the big Projects Work flow 
+
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
