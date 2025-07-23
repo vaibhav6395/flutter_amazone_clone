@@ -9,6 +9,13 @@ This is a full stack flutter amazone_clone project with backend server with node
 
 
 
+Of you are confusing then you need a paper and pen/pencil and draw the only workflow diagram of this prjoect componenent wise . acc to server file 
+After that i am dam sure Your brain will auto do these task 
+here In this project the focus is not given to Ui   very much    So if you want to build it you can after reading workflow of this project 
+
+
+with more beautiful Ui 
+
 
 
 
